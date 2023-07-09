@@ -1,0 +1,26 @@
+.layout{
+    background-color:  white;
+    font-family: Outfit;
+    margin-left: 150px;
+    border-radius: 20px;
+    width: 375px;   
+}
+.image{
+    padding: 30px 10px 10px 40px;
+    border-radius: 20px;
+}
+.text{
+    padding: 10px 10px 10px 90px;
+    font-size:19px ;
+    font-family: Outfit;
+    -webkit-text-fill-color:hsl(212, 45%, 89%);
+}
+.transparent{ 
+    -webkit-text-fill-color:hsl(0, 0%, 0%);
+}
+img{
+    border-radius: 20px;
+}
+body{
+    background-color: hsl(212, 45%, 89%); 
+}
